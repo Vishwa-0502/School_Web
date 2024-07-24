@@ -4,6 +4,8 @@
 
 This project is a school website built using React.js, Vite, and Tailwind CSS. It includes a variety of features to provide comprehensive information about the school, its offerings, and services. The website also uses `react-icons`, `react-scroll`, and other libraries to enhance functionality and user experience.
 
+## Deployed Link : https://admirable-churros-1a44f9.netlify.app/
+
 ## Features
 
 ### Home Page
